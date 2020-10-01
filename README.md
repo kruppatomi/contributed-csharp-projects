@@ -1,4 +1,4 @@
-# contributed-csharp-projects
+# Contributed C# projects
 This is a collection of c# projects, which we made in teams
 #### Currency Exchange https://github.com/CodecoolGlobal/currencyExchange
 * This project is a currency changer application with Entity framework (ORM), my part was to give and handle user roles and access, connect the application with external API, handle bugs, make a chart.js diagram for the site and add some ajax to the project.
